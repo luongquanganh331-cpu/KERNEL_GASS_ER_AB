@@ -1,0 +1,9 @@
+{
+  "name": "KERNEL_GASS_ER_AB",
+  "description": "An extremely infected, virus-ridden operating system interface reflecting historical malware symptoms like Mydoom and WannaCry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
